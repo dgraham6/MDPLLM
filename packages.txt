@@ -1,4 +1,0 @@
-build-essential
-pkg-config
-libsqlite3-dev
-sqlite3
