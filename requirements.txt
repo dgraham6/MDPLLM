@@ -1,0 +1,9 @@
+groq
+langchain
+langchain-community
+langchain-huggingface
+PyPDF2
+requests
+beautifulsoup4
+jsonschema
+chromadb
