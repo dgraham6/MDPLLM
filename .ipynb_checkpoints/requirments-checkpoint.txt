@@ -1,0 +1,11 @@
+groq
+langchain
+langchain-community-vectorstores
+sentence-transformers
+chromadb
+huggingface-hub
+PyPDF2
+bs4
+requests
+tqdm
+transformers
