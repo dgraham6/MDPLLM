@@ -53,6 +53,7 @@ The script includes a scraping function to retrieve data from biorxiv.org and ot
 - Example Websites: Pathology definitions and introductions
 
 If you wish to load additional URLs, update the `pdf_urls` and `website_urls` lists in the `load_data` function.
+bio_urls.txt contains pre-scraped urls from biorx.org
 
 ### Step 2: Build Vectorstore
 The `load_data` function processes the text content, splits it into smaller chunks, and embeds it using Sentence-Transformers. Run this function to build the Chroma vector database:
